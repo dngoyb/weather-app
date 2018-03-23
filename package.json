@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Nodejs learning how to build a weather app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dngoyb/weather-app.git"
+  },
+  "author": "Ngoy Banza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dngoyb/weather-app/issues"
+  },
+  "homepage": "https://github.com/dngoyb/weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
